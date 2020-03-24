@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dannybutterfield1880.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/dannybutterfield1880.github.io/static/js/main.759faf3e.chunk.js",
+    "main.js.map": "/dannybutterfield1880.github.io/static/js/main.759faf3e.chunk.js.map",
+    "runtime-main.js": "/dannybutterfield1880.github.io/static/js/runtime-main.6399e903.js",
+    "runtime-main.js.map": "/dannybutterfield1880.github.io/static/js/runtime-main.6399e903.js.map",
+    "static/js/2.9e384841.chunk.js": "/dannybutterfield1880.github.io/static/js/2.9e384841.chunk.js",
+    "static/js/2.9e384841.chunk.js.map": "/dannybutterfield1880.github.io/static/js/2.9e384841.chunk.js.map",
+    "index.html": "/dannybutterfield1880.github.io/index.html",
+    "precache-manifest.1984841d47025e769f8c0af74018c141.js": "/dannybutterfield1880.github.io/precache-manifest.1984841d47025e769f8c0af74018c141.js",
+    "service-worker.js": "/dannybutterfield1880.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/dannybutterfield1880.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9e384841.chunk.js.LICENSE.txt": "/dannybutterfield1880.github.io/static/js/2.9e384841.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dannybutterfield1880.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6399e903.js",
+    "static/js/2.9e384841.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.759faf3e.chunk.js"
+  ]
+}
